@@ -11,6 +11,7 @@ A repository for automated extraction and classification of postoperative compli
 
 - [Overview](#overview)
 - [Features](#features)
+- [Codebase](#codebase)
 - [Citation](#citation)
 
 ## 🔍 Overview
@@ -34,11 +35,14 @@ The Clavien-Dindo classification is a standardized system for grading postoperat
 - 🌐 **Flexible endpoints**: Compatible with various LLM API endpoints
 - 🎯 **Two classification modes**: Binary and fine-grained classification options
 
+## 🔧 Codebase
+
+The complete codebase including implementation details, configuration files, and usage examples will be published soon. Stay tuned for updates!
 
 
 ## 📚 Citation
 
 If you use this tool in your research, please cite our paper:
 
-**Paper**: [Link to paper explaining the methodology and validation results will be published, as soon as it was accepted]
+**Paper**: [Link to paper will be published, as soon as it was accepted]
 
